@@ -11,5 +11,7 @@ Hello World!를 출력하시오.
 print("Hello World!")
 ```
 
-## 알아보기
-print(): https://docs.python.org/3/library/functions.html#print
+## 공식문서 
+print: https://docs.python.org/3/library/functions.html#print
+
+literals: https://docs.python.org/3/reference/lexical_analysis.html#literals
